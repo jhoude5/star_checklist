@@ -1,0 +1,8 @@
+
+.checked i {
+    margin: auto 0;
+    padding-right: 6px;
+}
+.checked {
+    display: flex !important;
+}
